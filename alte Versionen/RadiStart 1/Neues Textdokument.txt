@@ -1,0 +1,1 @@
+F:\orbis\dll\orbis.exe cnf=F:\UKSH\cnf\orbis-wts-uksh.cnf
