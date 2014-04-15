@@ -13,8 +13,9 @@ username = getpass.getuser()
 Date=time.strftime("Datum: %d.%m.%Y")
 Date2=time.strftime("%d.%m.%Y")
 
+
 #Lokalisation
-if str("flo") in User:
+if str("Flo") in User:
     IP="http://192.168.2.200"
     print "zu Hause"
 else:
